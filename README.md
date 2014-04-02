@@ -1,4 +1,4 @@
-GameOfLife
+Test
 ==========
 
 Conway's Game of Life implemented in Java. Done in the context of my Computer Science studies.
