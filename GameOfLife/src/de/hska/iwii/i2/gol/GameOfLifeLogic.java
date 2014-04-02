@@ -4,7 +4,7 @@ package de.hska.iwii.i2.gol;
  * Die eigentliche Spielelogik. Das Spielfeld wird hier nicht als zyklisch
  * geschlossen betrachtet wird.
  * 
- * @author Fabio Ferreira
+ * @author Fabio Ferreira 
  */
 public class GameOfLifeLogic {
 	boolean[][][] population;
